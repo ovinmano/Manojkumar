@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manojkumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img  align="center"  alt="coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
+<img  align="center"  alt="coding" width="700" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovinmano&label=Profile%20views&color=0e75b6&style=flat" alt="ovinmano" /> </p>
 
 - 🌱 I’m currently learning **Reactjs,python,sql...**
