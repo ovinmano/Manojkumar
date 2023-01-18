@@ -3,13 +3,11 @@
 <img  align="right"  alt="coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovinmano&label=Profile%20views&color=0e75b6&style=flat" alt="ovinmano" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ovinmano" target="blank"><img src="https://img.shields.io/twitter/follow/ovinmano?logo=twitter&style=for-the-badge" alt="ovinmano" /></a> </p>
-
 - 🌱 I’m currently learning **Reactjs,python,sql...**
 
 - 👨‍💻 All of my projects are available at [https://ovinmano.github.io/ovin-website/](https://ovinmano.github.io/ovin-website/)
 
-- 💬 Ask me about **Html,css,php,javaScript,reactjs,python,sql**
+- 💬 Ask me about **HTML , CSS , PHP , javaScript , Reactjs , Python , SQL**
 
 - 📫 How to reach me **https://instagram.com/ovin_mano?igshid=YmMyMTA2M2Y=**
 
