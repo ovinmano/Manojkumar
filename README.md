@@ -3,7 +3,7 @@
 <img  align="right"  alt="coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovinmano&label=Profile%20views&color=0e75b6&style=flat" alt="ovinmano" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,python,sql...**
+- 🌱 I’m currently learning **MERN STACK...**
 
 - 👨‍💻 All of my projects are available at [https://ovinmano.github.io/ovin-website/](https://ovinmano.github.io/ovin-website/)
 
